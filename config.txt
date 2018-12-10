@@ -1,6 +1,6 @@
-﻿token= 
-owner= 
-prefix= 
-game= help
+token= NTIxNjYxOTkxNzkwNTc1NjE2.Du_rJg.G4wVUZdc1i4k55Gj_OqbpFsNJ70
+owner= 411887639847763978
+prefix= +
+game= +help
 stayinchannel=true 
 songinstatus=true 
